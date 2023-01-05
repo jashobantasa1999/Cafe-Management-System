@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/cafe/managemant/system/ForgotPassword.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/model/User.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/dao/ConnectionProvider.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/dao/DbOperations.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/cafe/managemant/system/Login.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/cafe/managemant/system/CafeManagemantSystem.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/dao/tables.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/cafe/managemant/system/Home.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/model/Category.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/cafe/managemant/system/AddNewProduct.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/cafe/managemant/system/ManageCategory.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/cafe/managemant/system/Signup.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/dao/ProductDao.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/model/Product.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/dao/CategoryDao.java</file>
+            <file>file:/H:/cafe/Cafe%20Managemant%20system/src/dao/UserDao.java</file>
+        </group>
+    </open-files>
+</project-private>
